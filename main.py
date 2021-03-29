@@ -6,12 +6,12 @@ Selected_word = list(random.choice(All_letter))
 
 
 life = 5
-### word length Selected_word
+
 
 WordLength = 5
 blankleft = 5
 
-#### for loop add blank letter
+
 display = []
 
 Number_of_blank_left = WordLength
@@ -19,7 +19,7 @@ Number_of_blank_left = WordLength
 for _ in range(WordLength):
   display += "_"
 print(display)
-### looping amount of time that player can input word
+
 
 
 
