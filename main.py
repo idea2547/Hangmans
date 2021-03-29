@@ -73,7 +73,7 @@ while True:
     print('You lost')
     break
   elif blankleft == 0:
-    print('You win')
+    print('You Won')
     break
   
 
